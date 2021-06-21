@@ -1,0 +1,9 @@
+{
+  "stunting_2cat": "1",
+  "agemonr1": "49",
+  "chsexr1": "1",
+  "agegapr1": "6",
+  "momeduyrsr1": "5",
+  "hhsizer1": "5",
+  "wi_newr1": "0.11"
+}
